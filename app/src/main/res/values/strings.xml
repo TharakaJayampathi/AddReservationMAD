@@ -17,7 +17,6 @@
     <string name="ReservationAdults">Adults</string>
     <string name="ReservationNights">Nights</string>
     <string name="ReservationOrder">Order</string>
-    <string name="ReservationOrder">Order</string>
     <string name="ReservationBreakfast">Breakfast</string>
     <string name="ReservationLunch">Lunch</string>
     <string name="ReservationDinner">Dinner</string>
@@ -39,4 +38,5 @@
     <string name="Reservation05">05.</string>
     <string name="Reservation05Name">Name</string>
     <string name="ReservationGenerateReport">Generate Report</string>
+    <string name="Reservationc">Cancel Reservation</string>
 </resources>

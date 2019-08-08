@@ -20,7 +20,7 @@ public class GuestsPerRoom extends AppCompatActivity {
             startActivity(new Intent(GuestsPerRoom.this,ViewReservationManagement.class));
         }
 
-    public void OnclickCancel(View view) {
+    public void OnclickCancelResevation(View view) {
         startActivity(new Intent(GuestsPerRoom.this,MainActivity.class));
     }
 
